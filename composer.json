@@ -1,0 +1,13 @@
+{
+    "name": "taslin/fontawesome",
+    "description": "this is base of fontawesome source code for yii2 application",
+    "type": "library",
+    "authors": [
+        {
+            "name": "andhy taslin",
+            "email": "taslin.webdeveloper@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
